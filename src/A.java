@@ -16,6 +16,9 @@ public class A {
             System.out.println("this is 21");
             System.out.println("this is 22");
             System.out.println("this is 23");
+            System.out.println("this is 24");
+            System.out.println("this is 25");
+            
         }
     }
 }
