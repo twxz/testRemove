@@ -13,6 +13,8 @@ public class A {
             System.out.println("this is d");
         }else{
             System.out.println("this is 20");
+            System.out.println("this is 30");
+            System.out.println("this is 31");
            
             
         }
